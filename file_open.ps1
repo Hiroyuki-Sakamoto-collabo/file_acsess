@@ -13,7 +13,7 @@
         }
     }
 
-    Write-Host "’Ç‰ÁƒeƒLƒXƒg" $text_array
+    Write-Host "é¸æŠã—ãŸãƒ†ã‚­ã‚¹ãƒˆï¼š" $text_array
 
 
 

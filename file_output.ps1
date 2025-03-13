@@ -15,8 +15,11 @@
         $split_word
     }
 
-    Write-Host "あ" $text_array
+    Write-Host "入力文字" $text_array
 
+	$text_array |
+	
+    Out-File -FilePath test.txt
 
 
 
